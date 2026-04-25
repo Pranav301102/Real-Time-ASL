@@ -1,4 +1,4 @@
-# Real-Time-ASL
+
 # Real-Time ASL Recognition
 
 Converts American Sign Language gestures captured from a webcam into English text using MediaPipe hand keypoint extraction, a bidirectional LSTM, and LLM post-processing.
